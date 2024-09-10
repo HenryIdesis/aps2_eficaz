@@ -1,3 +1,10 @@
+certificado_aiven/
+certificado_aiven/*
+
+*.cred
+*.pem
+.cred
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -129,6 +136,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+Base_web_service/
 
 # Spyder project settings
 .spyderproject
